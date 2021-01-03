@@ -25,3 +25,15 @@ thead {
     background-color: #fcaaa7;
     color: white;
 }
+
+h5 {
+    text-align: center;
+    color: #f9564f;
+}
+
+.viz-box:hover {
+    border-color: #f9564f;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+}
